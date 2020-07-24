@@ -1,0 +1,53 @@
+Table S1. Metadata for clinical samples assayed with SCV2* library peptides.
+
+Sample ID	Collection site	Age	Sex	SARS-CoV-2 RT-PCR date	Collection date	Category
+CoH-P-1	Duarte, CA, USA	60	M	3/29/20	4/9/20	COVID-19 convalescent
+CoH-P-2	Duarte, CA, USA	43	M	3/23/20	4/10/20	COVID-19 convalescent
+CoH-P-3	Duarte, CA, USA	58	M	4/1/20	4/15/20	COVID-19 convalescent
+N27	Trondelag, Norway	52	F	3/10/20	4/22/20	COVID-19 convalescent
+N28	Trondelag, Norway	51	M	3/5/20	4/22/20	COVID-19 convalescent
+N29	Trondelag, Norway	31	M	3/5/20	4/22/20	COVID-19 convalescent
+N30	Trondelag, Norway	67	M	3/14/20	4/20/20	COVID-19 convalescent
+N31	Trondelag, Norway	22	F	3/28/20	4/21/20	COVID-19 convalescent
+N32	Trondelag, Norway	57	F	3/28/20	4/14/20	COVID-19 convalescent
+N33	Oslo, Norway	30	F	3/20/20	4/17/20	COVID-19 convalescent
+N35	Oslo, Norway	35	M	3/9/20	4/17/20	COVID-19 convalescent
+N36	Oslo, Norway	53	F	3/13/20	4/17/20	COVID-19 convalescent
+N37	Oslo, Norway	38	M	3/9/20	4/17/20	COVID-19 convalescent
+N38	Oslo, Norway	50	F	3/25/20	4/17/20	COVID-19 convalescent
+N39	Oslo, Norway	78	F	3/25/20	4/17/20	COVID-19 convalescent
+N40	Oslo, Norway	58	F	3/23/20	4/17/20	COVID-19 convalescent
+N41	Oslo, Norway	52	M	3/11/20	4/16/20	COVID-19 convalescent
+N42	Oslo, Norway	70	F	3/27/20	4/16/20	COVID-19 convalescent
+N43	Oslo, Norway	36	F	3/11/20	4/16/20	COVID-19 convalescent
+N44	Oslo, Norway	29	F	3/24/20	4/16/20	COVID-19 convalescent
+V1	San Francisco, CA, USA	51	M	3/17/20	3/30/20	COVID-19 convalescent
+V2	San Francisco, CA, USA	59	M	3/13/20	3/30/20	COVID-19 convalescent
+V3	San Francisco, CA, USA	58	F	3/3/20	4/13/20	COVID-19 convalescent
+V4	San Francisco, CA, USA	81	M	3/23/20	4/15/20	COVID-19 convalescent
+V6	San Francisco, CA, USA	22	M	3/19/20	4/17/20	COVID-19 convalescent
+V7	San Francisco, CA, USA	35	F	3/17/20	4/17/20	COVID-19 convalescent
+V8	San Francisco, CA, USA	51	M	3/29/20	4/24/20	COVID-19 convalescent
+CoH-HD-6	Duarte, CA, USA			negative		post-pandemic negative
+CoH-HD-7	Duarte, CA, USA			negative		post-pandemic negative
+CoH-HD-8	Duarte, CA, USA			negative		post-pandemic negative
+CoH-HD-9	Duarte, CA, USA			negative		post-pandemic negative
+BB1	Kern, CA, USA	19	M	not tested	1/6/15	pre-pandemic negative
+BB10	Stanislaus, CA, USA	22	F	not tested	1/5/15	pre-pandemic negative
+BB12	Solano, CA, USA	23	M	not tested	1/7/15	pre-pandemic negative
+BB13	Solano, CA, USA	61	M	not tested	1/6/15	pre-pandemic negative
+BB15	Solano, CA, USA	56	M	not tested	1/7/15	pre-pandemic negative
+BB17	Solano, CA, USA	56	M	not tested	1/9/15	pre-pandemic negative
+BB18	Solano, CA, USA	53	F	not tested	1/9/15	pre-pandemic negative
+BB19	Solano, CA, USA	45	M	not tested	1/9/15	pre-pandemic negative
+BB20	Solano, CA, USA	38	F	not tested	1/9/15	pre-pandemic negative
+BB3	Kern, CA, USA	24	M	not tested	1/7/15	pre-pandemic negative
+BB4	Kern, CA, USA	53	M	not tested	1/7/15	pre-pandemic negative
+BB5	Kern, CA, USA	57	M	not tested	1/7/15	pre-pandemic negative
+BB6	Fresno, CA, USA	18	F	not tested	1/5/15	pre-pandemic negative
+BB7	Fresno, CA, USA	20	F	not tested	1/5/15	pre-pandemic negative
+BB8	San Joaquin, CA, USA	37	M	not tested	1/7/15	pre-pandemic negative
+BB9	Merced, CA, USA	20	F	not tested	1/5/15	pre-pandemic negative
+JA01	Flagstaff, AZ, USA	35	M	not tested		pre-pandemic negative
+
+*Sample level metadata is not available for pre-pandemic negative control samples assayed with HV library peptides.
